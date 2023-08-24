@@ -2,13 +2,6 @@
 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/maykonsousa/template-next?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/maykonsousa/template-next?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/maykonsousa/template-next?style=for-the-badge)
-
-
-
-  
   <br>
 
 > Este é um template configurado para inicializar um projeto Next já com algumas ferramentas de padrão e qualidade de código. Ao usar esse template, não esqueça de atualizar esse arquivo README, para documentar o seu projeto
@@ -40,13 +33,7 @@ Para iniciar um novo projeto usando esse template siga as etapas
 6 Edite esse arquivo README incluindo a documentação da sua aplicação
 
 
-## 🚀 Maykon Sousa
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maykonsousa)
-[<img src=" https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://gthub.com/maykonsousapb)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>](http://wa.me/5561992943297)
-[<img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" height="28" />](http://maykonsousa.dev.br
-)
 
 
 
